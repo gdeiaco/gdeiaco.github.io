@@ -1,0 +1,58 @@
+HTTrack3.49-2+htsswf+htsjava launched on Wed, 13 Nov 2019 12:44:55 at http://www.dd-partners.it/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" http://www.dd-partners.it/ -O1 "D:\httrack\downloaded\DD" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+12:44:56	Warning: 	Moved Temporarily for www.dd-partners.it/
+12:44:56	Warning: 	File has moved from www.dd-partners.it/ to http://www.dd-partners.it/en/
+12:45:31	Error: 	"Not Found" (404) at link www.dd-partners.it/wp-content/themes/lawyeria-lite/images/fancybox_sprite.png (from www.dd-partners.it/wp-content/cache/autoptimize/css/autoptimize_cbe94abe76cbf9653021e485cf44804e.css)
+12:45:51	Warning: 	Moved Permanently for www.dd-partners.it/?p=289
+12:45:51	Warning: 	File has moved from www.dd-partners.it/?p=289 to http://www.dd-partners.it/en/about-us/
+12:45:51	Warning: 	Moved Permanently for www.dd-partners.it/devel/en/links/
+12:45:51	Warning: 	File has moved from www.dd-partners.it/devel/en/links/ to http://www.dd-partners.it/en/links/
+12:45:51	Warning: 	Moved Permanently for www.dd-partners.it/?p=292
+12:45:51	Warning: 	File has moved from www.dd-partners.it/?p=292 to http://www.dd-partners.it/en/scope/
+12:45:51	Warning: 	Moved Permanently for www.dd-partners.it/?p=294
+12:45:51	Warning: 	File has moved from www.dd-partners.it/?p=294 to http://www.dd-partners.it/en/scope/advice/
+12:45:51	Warning: 	Moved Permanently for www.dd-partners.it/?p=298
+12:45:51	Warning: 	File has moved from www.dd-partners.it/?p=298 to http://www.dd-partners.it/en/scope/skills/
+12:45:51	Warning: 	Moved Permanently for www.dd-partners.it/?p=296
+12:45:51	Warning: 	File has moved from www.dd-partners.it/?p=296 to http://www.dd-partners.it/en/scope/projects/
+12:45:51	Warning: 	Moved Permanently for www.dd-partners.it/?p=634
+12:45:51	Warning: 	File has moved from www.dd-partners.it/?p=634 to http://www.dd-partners.it/en/scope/together-to-transform/
+12:45:51	Warning: 	Moved Permanently for www.dd-partners.it/?p=302
+12:45:51	Warning: 	File has moved from www.dd-partners.it/?p=302 to http://www.dd-partners.it/en/contacts/
+12:45:51	Warning: 	Moved Permanently for www.dd-partners.it/?p=5
+12:45:51	Warning: 	File has moved from www.dd-partners.it/?p=5 to http://www.dd-partners.it/it/chi-siamo/
+12:45:51	Warning: 	Moved Permanently for www.dd-partners.it/devel/it/articoli/
+12:45:51	Warning: 	File has moved from www.dd-partners.it/devel/it/articoli/ to http://www.dd-partners.it/it/articoli/
+12:45:54	Warning: 	Moved Permanently for www.dd-partners.it/devel/it/link-di-interesse/
+12:45:54	Warning: 	File has moved from www.dd-partners.it/devel/it/link-di-interesse/ to http://www.dd-partners.it/it/link-di-interesse/
+12:45:54	Warning: 	Moved Permanently for www.dd-partners.it/?p=15
+12:45:54	Warning: 	File has moved from www.dd-partners.it/?p=15 to http://www.dd-partners.it/it/cosa-facciamo/
+12:45:54	Warning: 	Moved Permanently for www.dd-partners.it/?p=99
+12:45:54	Warning: 	File has moved from www.dd-partners.it/?p=99 to http://www.dd-partners.it/it/cosa-facciamo/consulting/
+12:45:54	Warning: 	Moved Permanently for www.dd-partners.it/?p=101
+12:45:54	Warning: 	File has moved from www.dd-partners.it/?p=101 to http://www.dd-partners.it/it/cosa-facciamo/areas-of-expertise/
+12:45:54	Warning: 	Moved Permanently for www.dd-partners.it/?p=118
+12:45:54	Warning: 	File has moved from www.dd-partners.it/?p=118 to http://www.dd-partners.it/it/cosa-facciamo/delivered-projects/
+12:45:54	Warning: 	Moved Permanently for www.dd-partners.it/?p=103
+12:45:54	Warning: 	File has moved from www.dd-partners.it/?p=103 to http://www.dd-partners.it/it/cosa-facciamo/together-2-transform/
+12:45:54	Warning: 	Moved Permanently for www.dd-partners.it/?p=40
+12:45:54	Warning: 	File has moved from www.dd-partners.it/?p=40 to http://www.dd-partners.it/it/contatti/
+12:46:00	Warning: 	Moved Permanently for www.dd-partners.it/?p=111
+12:46:00	Warning: 	File has moved from www.dd-partners.it/?p=111 to http://www.dd-partners.it/it/2016/10/25/il-cio/
+12:46:02	Warning: 	Moved Permanently for www.dd-partners.it/?p=420
+12:46:02	Warning: 	File has moved from www.dd-partners.it/?p=420 to http://www.dd-partners.it/en/links/
+12:46:02	Warning: 	Moved Permanently for www.dd-partners.it/?p=413
+12:46:02	Warning: 	File has moved from www.dd-partners.it/?p=413 to http://www.dd-partners.it/it/articoli/
+12:46:05	Warning: 	Moved Permanently for www.dd-partners.it/?p=418
+12:46:05	Warning: 	File has moved from www.dd-partners.it/?p=418 to http://www.dd-partners.it/it/link-di-interesse/
+12:46:05	Warning: 	Moved Permanently for www.dd-partners.it/?p=416
+12:46:05	Warning: 	File has moved from www.dd-partners.it/?p=416 to http://www.dd-partners.it/en/articles/
+
+HTTrack Website Copier/3.49-2 mirror complete in 1 minutes 10 seconds : 104 links scanned, 79 files written (1694340 bytes overall) [1168113 bytes received at 16687 bytes/sec], 849588 bytes transferred using HTTP compression in 53 files, ratio 30%, 17.8 requests per connection
+(1 errors, 46 warnings, 0 messages)
